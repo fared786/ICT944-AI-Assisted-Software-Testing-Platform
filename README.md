@@ -2,7 +2,7 @@
 
 ## Project Information
 
-**Student:** Farhad Hossain  
+**Prepared by:** Farhad Hossain  
 **Unit:** ICT944 Cybersecurity and Software Development Integrative Project  
 **Assessment:** Assessment Task 1  
 **Project Type:** Individual project  
